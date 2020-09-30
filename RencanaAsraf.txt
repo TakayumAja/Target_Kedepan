@@ -1,6 +1,5 @@
 Rencana yang harus dikerjakan
 1.Belajar web 
-2.Belajar python
-3.Belajar Java 
-4.Belajar Cpp
-5.Belajar Oop Python
+2.Belajar Java 
+3.Belajar Cpp
+4.Belajar Oop Python
