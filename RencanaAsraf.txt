@@ -1,8 +1,11 @@
 Rencana yang harus dikerjakan
 1.Belajar web 
 -html
--css
--javascript
-2.Belajar Java
+-css 
+-css layout
+-javascript 
+2.Belajar Java 
 3.Belajar Cpp
 4.Belajar Python
+-oop
+-struktur data 
