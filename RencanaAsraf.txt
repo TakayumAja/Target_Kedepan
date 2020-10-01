@@ -4,8 +4,11 @@ Rencana yang harus dikerjakan
 -css 
 -css layout
 -javascript 
+-angular
 2.Belajar Java 
+-oop
 3.Belajar Cpp
+-oop
 4.Belajar Python
 -oop
 -struktur data 
